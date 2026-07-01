@@ -1,0 +1,6 @@
+Clustering_Algorithm,Silhouette_Score,Davies_Bouldin_Index,Calinski_Harabasz_Index
+KMeans,0.4705,0.6256,645.562
+Agglomerative,0.4585,0.6399,624.3239
+Spectral,0.4829,0.4755,494.3701
+DBSCAN,0.2649,1.7288,397.5854
+HDBSCAN,0.4086,0.3431,88.2246
